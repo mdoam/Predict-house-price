@@ -1,4 +1,4 @@
-# Predict-house-price
+# PredictHousePrice
 Practice using regression in Sklearn
 
 Data using:
